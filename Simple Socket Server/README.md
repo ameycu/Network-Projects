@@ -5,6 +5,7 @@
 Create a simple python socket based web server
 Render DN.html if the url is correct, else return a 404 error
 
+
 **Running the server:**
 
 Run server.py using python 2.7
