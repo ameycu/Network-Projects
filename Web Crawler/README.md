@@ -1,8 +1,7 @@
 <H1>Web Crawler</H1>
 
 **The goal of this project:**
-
-Implement a web crawler that gathers data from a fake social networking website and collect 5 secret flags that have been hidden on it
+<br>Implement a web crawler that gathers data from a fake social networking website and collect 5 secret flags that have been hidden on it
 
 **Approach:**
 
