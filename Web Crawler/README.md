@@ -20,3 +20,6 @@
 <br>2. If the response is “403 FORBIDDEN”, an error is thrown to the user and connection is terminated.
 <br>3. If the response is “404 NOT FOUND”, an error is thrown to the user and connection is terminated.
 <br>4. If the response is “500 INTERNAL SERVER ERROR”, socket is re-established and the request is sent again. </pre>
+
+**Running the code:**
+python webcrawler.py [username] [password]
