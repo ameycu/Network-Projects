@@ -38,6 +38,6 @@ Checked and ensured that the socket is not being kept open for long time.
 
 python client.py <-p port> <-s> [hostname] [NEU ID]
 
-`test` . 
-`test` . 
-`test` . 
+`test`<br/>
+`test`<br/>
+`test`<br/>
