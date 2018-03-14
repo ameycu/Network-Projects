@@ -37,3 +37,7 @@ Checked and ensured that the socket is not being kept open for long time.
 **Running the code:**
 
 python client.py <-p port> <-s> [hostname] [NEU ID]
+
+`test`
+`test`
+`test`
